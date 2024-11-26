@@ -94,4 +94,8 @@ public class Mahasiswa implements Serializable {
     public String toString() {
         return "DataMahasiswaUAS.Mahasiswa[ nim=" + nim + " ]";
     }
+
+    void setAsal(String text) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 }
